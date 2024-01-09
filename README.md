@@ -72,11 +72,11 @@ The data analysis was divided into sales performance analysis, product analysis,
 
 * Since 2011, our platform has processed over 25,000 transactions for 1,590 customers. Only 11.2% of these transactions took place over the weekend.
 * These deals generated $12.64M with a profit of $1.47M.
-* Sales are up 26.25%  compared to previous year. 
+* Sales are up 26.25%  compared to the previous year. 
 * Our sales are above average during the final three months of the year, with December being the strongest month and February being the worst.
 * There are 3 product categories, 17 sub-categories, and 3,660 products in our inventory. The most profitable of the three product categories was technology, followed by office supplies and furnishings. 
 * We suffered a $64,000 loss in the tables sub-category. 
-* Staples is the most often ordered product, with 218 orders, followed by cardinal index tab with 108 orders. 
+* Staples is the most often ordered product, with 218 orders, followed by the cardinal index tab with 108 orders. 
 * It was observed that the average transit time for all shipping modes is 3.97 days. The standard class has been utilised 15,154 times (highest) with an average shipment duration of 5 days. Second class mode was used 5,119 times with an average shipping time of 3.2 days. Few purchases (1,347) made use of same-day shipping. 
 * In terms of sales, Tom Ashbrook, Jane Waco, and Bill Eplett are our best customers. 
 * In comparison to other regions, the United States generated 18% of sales and 19% of profit. Turkey had the greatest decline, 6.7%.
