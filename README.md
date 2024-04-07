@@ -96,7 +96,7 @@ The data analysis was divided into sales performance analysis, product analysis,
 In conclusion, this project utilized data analytics techniques to analyze the performance of a global superstore. Through the interactive dashboard and data insights, stakeholders can make informed decisions and take necessary actions to achieve their strategic objectives. By leveraging the power of data, businesses can drive growth, improve profitability, and stay competitive in today's dynamic market.
 <br>
 
-**The dashboard can be accessed and interacted with through the following link:** [Link to the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzJjOTA0NDgtNDkxOS00ODlmLTk0MzQtZWIwMDc1YTZlYTc5IiwidCI6IjVmZjhkZDRiLTBiZDMtNGRjYS1hNjc2LTgzNmQwN2I0MWNhMSIsImMiOjh9&pageName=ReportSection88dcf553296e4e3790dc)
+**The dashboard can be accessed and interacted with through the following link:** [Link to the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTIyYzRjZTgtODkwMi00MmMxLThmZDktNzJmZGIxYWNlMjY0IiwidCI6IjVmZjhkZDRiLTBiZDMtNGRjYS1hNjc2LTgzNmQwN2I0MWNhMSIsImMiOjh9)
 
 <br>
 Thank you for reading!
