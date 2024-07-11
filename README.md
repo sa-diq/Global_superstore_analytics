@@ -7,22 +7,42 @@ In today's data-driven society, having an intelligent strategy is essential for 
 ## OBJECTIVE
 This project aims to use business intelligence tool to analyse the performance of a global superstore. The outcome of this analysis will assist stakeholders in making educated decisions about how to attain their goals.
 
-## DATA SOURCE
-This project’s data is open source, it is the Global Superstore dataset obtained from Kaggle. The data can be accessed via this [link](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset?select=Global_Superstore2.csv). The dataset is in a CSV format with 51,290 observations and 24 features.
 
 ## BI QUESTIONS
 This project focuses on descriptive and predictive analytics using the available historical data. The following questions will be addressed through the analysis:
-*	What is the monthly trend of sales? 
-*	What day of the week do we receive most orders?  
-*	Which products do our customers order most?  
-*	Where are we making profits/loss in terms of product categories?  
-*	Are we losing or gaining customers over the years?  
-*	Do we have the most sales in region with highest number of customers?  
-*	Who are our best customers?  
-*	Which type of customer segment brings the most sales? 
-*	How many customers do we have per country, and what is their sales contribution percentage?  What’s the most preferred shipping mode? 
-*	How long on average does it take us to ship our products? 
-*	What is the sales forecast for the next two years?
+*	Dashboard
+*	Create a dashboard based on the analysis questions below Build all these in Power BI report, you can use multiple pages
+*	Properly label and format the dashboard
+*	Use slicers for to see country wise and year wise data
+*	Sales Analysis
+*	What are the monthly, quarterly, and yearly sales trends?
+*	How do sales compare year over year for each category?
+*	Which product categories and sub-categories are performing the 
+best in terms of sales and profit
+* What are the top 10 selling products?
+* Which regions are generating the highest sales?
+* What is the profit margin for different product categories and 
+regions, create a measure for profit margin.
+* Profit margin is total profit divided by total sales and is in %
+* Customer Analysis
+* Who are the top 10 and bottom 10 customers in terms of sales
+* What are the average order size and max quantity purchased for 
+different customer segments?
+* From chart 2 above what do you conclude?
+* Product Analysis
+* Give the list of products with sales greater than average sales but have profit margin less than avg profit margin and tell the number of such products
+* Operational Analysis
+* What is the average shipping time for orders? : shipping time is calculated by the difference between the order date and the 
+shipping date, use date diff function
+* How does shipping time affect customer satisfaction and repeat purchases?
+* Financial Analysis
+* What are the forecasted sales for the next quarter or year
+* Geographical Analysis
+* Create a heatmap to visualize sales performance across different 
+regions.
+* Identify high-performing and low-performing countries in terms of 
+sales
+* Identify any geographical factors influencing sales performance.
 
 ## DATA CLEANING AND TRANSFORMATION
 To prepare the data for analysis, several pre-processing steps were performed using Power Query. These steps include removing null values, handling errors, changing data types, performing timeline checks, and creating new columns. The data was cleaned and transformed to ensure its suitability for analysis. <br>
@@ -61,7 +81,7 @@ Before Data Processing | After Data Processing
 ## DATA ANALYSIS AND DASHBOARD
 The data analysis was divided into sales performance analysis, product analysis, customer analysis, and region analysis. Using DAX and calculated columns, these analyses provided insights into various aspects of the superstore's operations. Each segment has a dedicated dashboard page that addresses the business intelligence questions raised. The interactive dashboard allows users to navigate and personalize the displayed information according to their specific needs.
 
-![](home.png) 
+
 ![](sales.PNG) 
 ![](products.jpg)
 ![](customers.jpg)
@@ -96,7 +116,6 @@ The data analysis was divided into sales performance analysis, product analysis,
 In conclusion, this project utilized data analytics techniques to analyze the performance of a global superstore. Through the interactive dashboard and data insights, stakeholders can make informed decisions and take necessary actions to achieve their strategic objectives. By leveraging the power of data, businesses can drive growth, improve profitability, and stay competitive in today's dynamic market.
 <br>
 
-**The dashboard can be accessed and interacted with through the following link:** [Link to the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTIyYzRjZTgtODkwMi00MmMxLThmZDktNzJmZGIxYWNlMjY0IiwidCI6IjVmZjhkZDRiLTBiZDMtNGRjYS1hNjc2LTgzNmQwN2I0MWNhMSIsImMiOjh9)
 
 <br>
 Thank you for reading!
